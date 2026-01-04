@@ -41,7 +41,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/
+git clone https://github.com/Jpearlkng/markdown-preview-vue-ts
 cd markdown-preview-vue
 Install dependencies:
 
@@ -104,7 +104,8 @@ Institution: AltSchool Africa
 
 Program: Frontend Engineering
 
+GitHub Repository: https://github.com/Jpearlkng/markdown-preview-vue-ts
 Deployment
 This application is deployed on Netlify.
 
-Live URL: [Link to your new Vue deployment]
+Live URL: [ https://victoria-lefevre-markdown-preview-vue.netlify.app/]
